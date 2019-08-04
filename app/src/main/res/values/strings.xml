@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Attendance marker</string>
+    <string name="message_camera_accepted">Permission Granted, Now you can access camera</string>
+    <string name="message_camera_denied">Permission Denied, You cannot access and camera</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="alert_dialog_scanner_title">Scan Result</string>
+    <string name="alert_dialog_scanner_positive_button">OK</string>
+    <string name="alert_dialog_scanner_negative_button">Visit</string>
+
+
+</resources>
